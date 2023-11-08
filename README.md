@@ -13,7 +13,7 @@
 const chiara = {
   pronouns: 'she' | 'her',
   code: [HTML, CSS, JavaScript, PHP],
-  tools: [Bootstrap, Vue.js, Laravel, NPM],
+  tools: [Vue.js, Laravel, NPM, Shopify, Magento, Docker],
   currentFocus: 'Building Robots to ease opertations',
   askMeAbout: ['web dev', 'tech', 'fantasy books', 'super heroes'],
 }
